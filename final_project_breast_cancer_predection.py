@@ -21,7 +21,6 @@ breast_cancer_data.shape
 
 col_name=breast_cancer_data.columns
 
-col_name
 
 y=breast_cancer_data.diagnosis
 drop_cols=["id","diagnosis",'Unnamed: 32']
